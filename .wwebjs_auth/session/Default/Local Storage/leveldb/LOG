@@ -1,0 +1,6 @@
+2026/09/04-16:37:50.249 4024 Reusing MANIFEST C:\Users\guilh\teste\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/04-16:37:50.265 4024 Recovering log #3
+2026/09/04-16:37:50.268 4024 Reusing old log C:\Users\guilh\teste\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/09/05-03:04:46.035 5074 Level-0 table #5: started
+2026/09/05-03:04:46.043 5074 Level-0 table #5: 21496 bytes OK
+2026/09/05-03:04:46.046 5074 Delete type=0 #3
